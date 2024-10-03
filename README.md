@@ -10,3 +10,6 @@ The imaginary company sales their products in different regions of country throu
 4. Formatting visualizations and applying conditional formatting
 5. Used diffrent chart types, slicers, filters and appled design elements.
 
+# Screenshot
+
+![Sales data analysis](https://github.com/user-attachments/assets/e6eb3585-e5da-4262-b206-61e9a3811785)
